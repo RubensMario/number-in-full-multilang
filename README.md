@@ -12,6 +12,14 @@ To run this project, you will need to have Git and Node installed in your machin
 npm install number-in-full-multilang
 ```
 
+The lib uses ES6 module. So, in order to use it, after installation, add:
+
+```
+"type": "module"
+```
+
+to the package.json file of your node project.
+
 ## Usage
 
 ```

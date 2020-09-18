@@ -1,4 +1,4 @@
-# number-in-full
+# number-in-full-multilang
 
 A lib to convert a number, that represents a value in Brazilian, American or Spanish currency, into the value in full in these countries languages(PT-BR, EN-US, ES-ES, respectively). Each one will be converted according to their respective currency: real (BRL), dollar (USD) and euro (EUR). For instance, if you choose portuguese (pt) in the function, you will obtain the number you insert written in full as a BRL value.
 

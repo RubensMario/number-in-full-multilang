@@ -14,7 +14,7 @@ npm install number-in-full-multilang
 
 The lib uses ES6 module. So, in order to use it, after installation, some configurations are required.
 
-- In node:
+- Node: <br />
   Add
 
 ```
@@ -23,7 +23,7 @@ The lib uses ES6 module. So, in order to use it, after installation, some config
 
 to the package.json file of your node project.
 
-- In HTML + JavaScript project:
+- HTML + JavaScript project: <br />
   In the end of the body of the HTML document add:
 
 ```

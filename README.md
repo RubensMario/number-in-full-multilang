@@ -15,14 +15,14 @@ npm install number-in-full-multilang
 The lib uses ES6 module. So, in order to use it, after installation, some configurations are required.
 
 - **Node:** <br />
-<br />
+
 <p>Add</p>
 
 ```
 "type": "module"
 ```
 
-to the package.json file of your node project.
+to the package.json file of your node project.</br>
 
 - **HTML + JavaScript project:** <br />
 

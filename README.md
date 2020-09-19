@@ -15,8 +15,8 @@ npm install number-in-full-multilang
 The lib uses ES6 module. So, in order to use it, after installation, some configurations are required.
 
 - **Node:** <br />
-  <br />
-  Add
+<br />
+<p>Add</p>
 
 ```
 "type": "module"
@@ -25,7 +25,8 @@ The lib uses ES6 module. So, in order to use it, after installation, some config
 to the package.json file of your node project.
 
 - **HTML + JavaScript project:** <br />
-  In the end of the body of the HTML document add:
+
+<p>In the end of the body of the HTML document add</p>
 
 ```
 <script type="module" src="./RELATIVE_PATH_TO_SCRIPT/SCRIPT_NAME.js"></script>

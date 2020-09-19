@@ -1,6 +1,6 @@
 {
   "name": "number-in-full-multilang",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A lib to convert a number, that represents a value in Brazilian (BRL), American (USD), or Spanish (EUR) currency, into the value in full in these countries languages. Each one will be converted according to their respective currency: real, dollar and euro. For instance, if you choose portuguese (pt) in the function, you will obtain the number you insert written in full as a BRL value.",
   "main": "index.js",
   "type": "module",

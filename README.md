@@ -12,13 +12,29 @@ To run this project, you will need to have Git and Node installed in your machin
 npm install number-in-full-multilang
 ```
 
-The lib uses ES6 module. So, in order to use it, after installation, add:
+The lib uses ES6 module. So, in order to use it, after installation, some configurations are required.
+
+- In node:
+  Add
 
 ```
 "type": "module"
 ```
 
 to the package.json file of your node project.
+
+- In HTML + JavaScript project:
+  In the end of the body of the HTML document add:
+
+```
+<script type="module" src="./RELATIVE_PATH_TO_SCRIPT/SCRIPT_NAME.js"></script>
+```
+
+And, in your script file:
+
+```
+import { numberInFullConverter } from '../node_modules/number-in-full-multilang/index.js';
+```
 
 ## Usage
 
